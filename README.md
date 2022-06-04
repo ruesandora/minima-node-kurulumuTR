@@ -1,0 +1,30 @@
+ <h1 align=“center”>Minima Global</h1> 
+
+<p>M&#304;N&#304;MA NODE KURULUMU</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
