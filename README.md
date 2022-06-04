@@ -19,15 +19,16 @@
 
 # Karşınıza böyle bir sayfa çıkacak sol üstte aws yazısının altında benim çizdiğim çizgilerin orada 3 çizgi olacak oraya basıp instances bölümüne giriyoruz:
 
-![image](https://user-images.githubusercontent.com/101149671/171995499-21184310-a99a-4fd0-8209-3e02afa727c5.png)
+![image](https://user-images.githubusercontent.com/101149671/171996368-de9e05c2-b4c3-46a8-aceb-ac254d2a88f2.png)
+
 
 #  Instance state kısmı running olana kadar bekliyoruz. Ardından okla gösterdiğim ID kısmına tıklayıp giriyoruz:
 
-![image](https://user-images.githubusercontent.com/101149671/171995507-9e5d2386-7660-4a02-b650-cacc5f1a0b47.png)
+![image](https://user-images.githubusercontent.com/101149671/171996371-b20929ab-611b-41f1-831b-513f7f62c656.png)
 
 # Okla gösterdiğim connect butonuna tıklıyoruz. Açılan sayfada name kısmına bir isim girin ve sağ altta bulunan connect butonuna basın. Yeni bir pencere açılacak.
 
-![image](https://user-images.githubusercontent.com/101149671/171995519-3738e4e3-05f0-45bb-b67b-2442264a48ae.png)
+![image](https://user-images.githubusercontent.com/101149671/171996374-33bf9cc6-52fd-4fa8-b82e-6cf69a4fcd10.png)
 
 # Bu komutu ctrl+v ile yapıştırıp enterlıyoruz :
 ```
